@@ -25,7 +25,7 @@ function Register() {
   );
 
   useEffect(() => {
-    if (isError) return toast.error(message);
+    if (isError) toast.error(message);
 
     // Redirect when logged in
     if (isSuccess || user) navigate("/");
