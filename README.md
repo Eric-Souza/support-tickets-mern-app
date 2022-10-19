@@ -1,6 +1,6 @@
 # Tech Support MERN App
 
-App developed using MERN (Mongo, Express, React and Node). Authentication system was developed with Bcrypt, database models and connection developed with Mongo through Mongoose ORM. The UI was developed in React. 
+App developed using MERN (Mongo, Express, React and Node) to create tickets about tech issues. Authentication system was developed with Bcrypt, database models and connection developed with Mongo through Mongoose ORM. The UI was developed in React. 
 
 ## Available Scripts
 
